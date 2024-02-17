@@ -18,4 +18,3 @@ elif (temp <= 28):
 else:
   dinner = random.choice(dish3)
 st.text(f"今日は{dinner}がおすすめです。")
-st.balloons()
